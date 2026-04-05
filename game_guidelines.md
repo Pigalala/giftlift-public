@@ -31,7 +31,7 @@
     - Client version changers
 3. Use of Autoclicker is prohibited
 4. Account sharing and playing on other accounts is prohibited
-5. Do not excessively leave games. Check if you have enough time before playing
+5. Do not excessively leave games or be AFK. Check if you have enough time before playing
 6. Do not exploit bugs or unintended behaviour. If you are unsure, you can ask in the discord
 7. Do not download the maps from the server without permission
 
