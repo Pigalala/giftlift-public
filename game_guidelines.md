@@ -29,6 +29,7 @@
     - Health indicators
     - Xray or similar
     - Client version changers
+    - Modifying the appearance of hitboxes
 3. Use of Autoclicker is prohibited
 4. Account sharing and playing on other accounts is prohibited
 5. Do not excessively leave games. Check if you have enough time before playing
