@@ -1,16 +1,17 @@
-## Chat rules
+## Chat guidelines
 0. Be nice
 1. Be respectful
 2. Personal information should be kept to yourself, and information about other users should not be shared
 3. Avoid sensitive topics such as politics, religion, etc.
 4. Avoid spamming (don't send a chat message after writing a single word to form a sentence)
 5. Hate speech and threats do not belong in Giftlift
-6. Don't be illegal
+6. Be legal
 7. Avoid spreading misinformation
 8. Public chat is for English. Use /msg for any other languages
 9. Avoid excessive profanity or explicit language
 
 ## Gameplay rules
+0. Do not intentionally throw games
 1. Report bugs to the [Giftlift discord](https://discord.playgiftlift.com/)
 2. Only use client mods which do not give an advantage over a vanilla client:
   - Allowed
