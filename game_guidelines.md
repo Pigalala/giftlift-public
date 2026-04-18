@@ -13,27 +13,41 @@
 ## Gameplay rules
 0. Do not intentionally throw games
 1. Report bugs to the [Giftlift discord](https://discord.playgiftlift.com/)
-2. Only use client mods which do not give an advantage over a vanilla client:
-  - Allowed
-    - Boatcam
-    - Openboatutils
-    - Increase render distance past the server limit (eg. Bobby)
-    - Minimaps **without** entities visible
-    - Performance optimization mods
-    - Fullbright
-  - Disallowed
-    - Minimaps with entities visible
-    - Non vanilla movement mods
-    - Freecam / Freelook
-    - Gameplay macros
-    - Health indicators
-    - Xray or similar
-    - Client version changers
+2. Do not use illegal mods. See Client modification rules below
 3. Use of Autoclicker is prohibited
 4. Account sharing and playing on other accounts is prohibited
 5. Do not excessively leave games or be AFK. Check if you have enough time before playing. This rule is slightly more lenient in gamemodes such as Mega Teams
 6. Do not exploit bugs or unintended behaviour. If you are unsure, you can ask in the discord
 7. Do not download the maps from the server without permission
+
+## Client modification rules
+Modifications primarily refer to but is not limited to mods and resource packs.
+As a general rule, if a mod answers a question that a vanilla player would have to guess, infer, or observe it is likely disallowed.
+
+*It is recommended to use the [Giftlift modpack](https://modrinth.com/server/giftlift) and no additional resource packs if you don't want to risk breaking these rules*
+
+- Allowed modifications
+  - Boatcam
+  - Openboatutils
+  - Increase chunk render distance past the server limit (eg. Bobby)
+  - Minimaps **without** entities visible
+  - Performance optimization mods
+  - Fullbright
+  - Custom crosshair shape
+  - UI tweaks that do not show more data than a vanilla client
+  - Resource packs that tweak the appearance of items (not making them invisible)
+- Disallowed
+  - Minimaps with entities visible
+  - Non vanilla movement mods
+  - Freecam / Freelook
+  - Gameplay macros
+  - Health indicators
+  - Xray or similar
+  - Client version changers
+  - Modify knockback behaviour
+  - Changing appearance of hitboxs 
+  - Dynamic crosshairs (changing colour or appearance)
+  - Additional reach visualization
 
 ***
 
