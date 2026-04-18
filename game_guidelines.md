@@ -45,7 +45,7 @@ As a general rule, if a mod answers a question that a vanilla player would have 
   - Xray or similar
   - Client version changers
   - Modify knockback behaviour
-  - Changing appearance of hitboxs 
+  - Changing appearance of hitboxes
   - Dynamic crosshairs (changing colour or appearance)
   - Additional reach visualization
 
