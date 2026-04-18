@@ -35,7 +35,7 @@ As a general rule, if a mod answers a question that a vanilla player would have 
   - Fullbright
   - Custom crosshair shape
   - UI tweaks that do not show more data than a vanilla client
-  - Resource packs that tweak the appearance of items (not making them invisible)
+  - Resource packs that tweak the appearance of items (not making them invisible for example)
 - Disallowed
   - Minimaps with entities visible
   - Non vanilla movement mods
