@@ -40,6 +40,8 @@ As a general rule, if a mod answers a question that a vanilla player would have 
   - Minimaps with entities visible
   - Non vanilla movement mods
   - Freecam / Freelook
+  - Extending FOV past vanilla limits
+  - Adjusting camera position (especially in a 3rd person perspective)
   - Gameplay macros
   - Health indicators
   - Xray or similar
